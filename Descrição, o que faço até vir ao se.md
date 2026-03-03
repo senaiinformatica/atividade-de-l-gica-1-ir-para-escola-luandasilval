@@ -80,6 +80,8 @@ vou até a garagem
 
 &nbsp;saio de casa 
 
+ **RUA**
+ 
 vou até o ponto de ônibus 
 
 dou o sinal quando o ônibus passa
@@ -102,9 +104,13 @@ desço do ônibus
 
 venho andando uma rua reta, depois viro até chegar ao senai
 
+ **SENAI**
+ 
 abro o zíper
 
 &nbsp;pego a carteirinha dentro da mochila
+
+entro no senai
 
 &nbsp;aponto a carteirinha na luz branca da catraca
 
