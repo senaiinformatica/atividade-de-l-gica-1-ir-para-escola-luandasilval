@@ -18,7 +18,9 @@ acendo a luz
 
 pego a escova de dente
 
-pego o creme dental, tiro a tampa dele
+pego o creme dental
+
+tiro a tampa dele
 
 coloco o produto (que está dentro da embalagem)na minha escova de dentes
 
