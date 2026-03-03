@@ -26,7 +26,13 @@ coloco o produto (que está dentro da embalagem)na minha escova de dentes
 
 escovo os dentes, com a parte da escova que esta com a pasta (com movimentos circulares, em todos os dentes, e na lingua)
 
-enxáguo a boca, cuspo na pia a água
+ligo a torneira
+
+enxáguo a boca com a agua da torneira
+
+cuspo na pia a água
+
+desligo a torneira
 
 solto a escova e o creme dental
 
